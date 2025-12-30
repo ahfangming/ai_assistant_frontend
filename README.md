@@ -43,17 +43,17 @@
 
 ### 主界面
 <div align="center">
-  <img src="screenshots/home.png" width="400px" />
+  <img src="screenshots/home.png" width="300px" />
 </div>
 
 ### 微信自动回复演示：点击悬浮窗后，就不用动，会自动把内容粘贴进输入框
 <div align="center">
-  <img src="screenshots/wechat_demo.gif" width="400px" />
+  <img src="screenshots/wechat_demo.gif" width="300px" />
 </div>
 
 ### 其他app，需要自己手动粘贴
 <div align="center">
-  <img src="screenshots/other.png" width="400px" />
+  <img src="screenshots/other.png" width="300px" />
 </div>
 
 ---
