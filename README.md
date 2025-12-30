@@ -104,7 +104,7 @@ dependencies:
 
 1. **克隆项目**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/ahfangming/ai_assistant_frontend.git
    cd ai_assistant-local
    ```
 
