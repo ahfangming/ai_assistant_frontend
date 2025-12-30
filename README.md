@@ -42,13 +42,19 @@
 ## 📸 应用截图
 
 ### 主界面
-![主界面](screenshots/home.png)
+<div align="center">
+  <img src="screenshots/home.png" width="400px" />
+</div>
 
 ### 微信自动回复演示：点击悬浮窗后，就不用动，会自动把内容粘贴进输入框
-![微信端演示](screenshots/wechat_demo.gif)
+<div align="center">
+  <img src="screenshots/wechat_demo.gif" width="400px" />
+</div>
 
 ### 其他app，需要自己手动粘贴
-![其他APP演示](screenshots/other.png)
+<div align="center">
+  <img src="screenshots/other.png" width="400px" />
+</div>
 
 ---
 
